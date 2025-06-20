@@ -1,14 +1,14 @@
-Política de Privacidade - números para Megasena
+Política de Privacidade - números para MegaSena
 
 Última Atualização: 20 de junho de 2025
 
-Esta Política de Privacidade descreve como o aplicativo números para Megasena (doravante "o App") opera em relação à privacidade e aos dados dos seus usuários.
+Esta Política de Privacidade descreve como o aplicativo números para MegaSena (doravante "o App") opera em relação à privacidade e aos dados dos seus usuários.
 1. Sobre o App
 
-O App números para Megasena foi desenvolvido com o único propósito de gerar sequências de números aleatórios e fictícios para a Mega Sena. Ele serve como uma ferramenta de auxílio para quem deseja ter sugestões de números para apostar, baseadas puramente em aleatoriedade.
+O App números para MegaSena foi desenvolvido com o único propósito de gerar sequências de números aleatórios e fictícios para a Mega Sena. Ele serve como uma ferramenta de auxílio para quem deseja ter sugestões de números para apostar, baseadas puramente em aleatoriedade.
 2. Coleta de Informações Pessoais
 
-Nós levamos a sua privacidade muito a sério. O números para Megasena não coleta, armazena, transmite ou processa qualquer tipo de informação pessoalmente identificável dos usuários.
+Nós levamos a sua privacidade muito a sério. O números para MegaSena não coleta, armazena, transmite ou processa qualquer tipo de informação pessoalmente identificável dos usuários.
 
 Isso significa que:
 
@@ -19,7 +19,7 @@ Isso significa que:
 
 3. Permissões do Dispositivo
 
-O App números para Megasena não requer ou solicita permissões especiais em seu dispositivo que permitam acesso a dados pessoais (como câmera, microfone, contatos, fotos ou localização). Ele funciona de forma completamente autônoma, usando apenas os recursos internos do seu dispositivo para gerar os números.
+O App números para MegaSena não requer ou solicita permissões especiais em seu dispositivo que permitam acesso a dados pessoais (como câmera, microfone, contatos, fotos ou localização). Ele funciona de forma completamente autônoma, usando apenas os recursos internos do seu dispositivo para gerar os números.
 4. Anúncios de Terceiros
 
 Se o App exibir anúncios de terceiros, informamos que:
